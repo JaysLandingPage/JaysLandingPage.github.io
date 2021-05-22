@@ -1,2 +1,2 @@
-# jaylanding.github.io
-My landing page.
+# Landing Page
+Basic Landing Page
